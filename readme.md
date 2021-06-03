@@ -1,5 +1,7 @@
 # Background Image Flipper
 
+![Project's Screenshot](https://raw.githubusercontent.com/alexmarinmendez/js-basics-bg-img-flipper/main/js-basics-bg-img-flipper-screen.png)
+
 Este proyecto consta de 2 scripts que acceden al DOM para cambiar la imagen de fondo de la página: Sequential y Random.
 
 _Sequential_ accede de forma secuencial a los nombres de las imágenes almacenados en un array de objetos.
